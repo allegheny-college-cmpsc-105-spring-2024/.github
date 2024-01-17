@@ -1,7 +1,5 @@
 # Allegheny College, CMPSC 105.00 Data Exploration
 
-<img src="https://banner2.cleanpng.com/20180421/utq/kisspng-magnifying-glass-computer-icons-clip-art-5adba2490e8373.7973557915243433690595.jpg" img>
-
 <img src="https://st4.depositphotos.com/1029819/22703/v/450/depositphotos_227033292-stock-illustration-magnifying-glass-cartoon-illustration-isolated.jpg" img>
 
 ### Course Description
